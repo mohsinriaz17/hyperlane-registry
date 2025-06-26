@@ -777,7 +777,8 @@ basesepolia:
     symbol: ETH
   protocol: ethereum
   rpcUrls:
-    - http: http://125.253.65.229:8545
+    - http: https://sepolia.base.org
+    - http: https://base-sepolia-rpc.publicnode.com
 bepolia:
   blockExplorers:
     - apiUrl: https://api.routescan.io/v2/network/testnet/evm/80069/etherscan/api
