@@ -336,9 +336,7 @@ arbitrumsepolia:
     symbol: ETH
   protocol: ethereum
   rpcUrls:
-    - http: https://arbitrum-sepolia.drpc.org
-    - http: https://arbitrum-sepolia.gateway.tenderly.co
-    - http: https://sepolia-rollup.arbitrum.io/rpc
+    - http: http://125.253.65.229:8547
   technicalStack: arbitrumnitro
 arcadia:
   blockExplorers:
