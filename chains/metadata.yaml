@@ -6101,7 +6101,7 @@ sepolia:
     symbol: ETH
   protocol: ethereum
   rpcUrls:
-    - http: http://125.253.65.229:8547
+    - http: http://125.253.65.229:8545
 shibarium:
   blockExplorers:
     - apiUrl: https://shibariumscan.io/api
