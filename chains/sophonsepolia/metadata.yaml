@@ -18,5 +18,5 @@ nativeToken:
   symbol: SOPH
 protocol: ethereum
 rpcUrls:
-  - http: http://125.253.65.229:3060
+  - http: https://rpc.testnet.sophon.xyz
 technicalStack: zksync
