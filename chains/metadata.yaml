@@ -7650,6 +7650,20 @@ tenet:
   rpcUrls:
     - http: https://rpc.tenet.org
     - http: https://tenet-evm.publicnode.com
+ternoatestnet:
+  chainId: 752024
+  displayName: Ternoatestnet
+  domainId: 752024
+  isTestnet: true
+  name: ternoatestnet
+  nativeToken:
+    decimals: 18
+    name: Ether
+    symbol: ETH
+  protocol: ethereum
+  rpcUrls:
+    - http: https://rpc-ternoa-testnet-qms9o564sw.t.conduit.xyz
+  technicalStack: opstack
 torus:
   blockExplorers:
     - apiUrl: https://blockscout.torus.network/api
